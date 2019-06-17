@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT dreambig_shop_4786.wsgi:application

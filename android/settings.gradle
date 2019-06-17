@@ -1,0 +1,3 @@
+rootProject.name = 'dreambig_shop_4786'
+
+include ':app'
